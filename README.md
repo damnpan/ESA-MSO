@@ -30,7 +30,7 @@ Note on files in this folder:
 *'final_code.ipynb'* -> this file is run in Julia version 1.1, using Gurobi Academic License  
 *'pressure_tank.xlsx'* -> data file containing the BOM for a real use case, data sourced by our group.  
 *'testing.xlsx'* -> test case example, produced by the *'ready for testing.py'* file. This is a 9x9 BOM with 50 jobs.
-*'BOM combined.xlsx'* -> integration with GROUP 4's BOM, using randomised duration times.
+*'BOM combined.xlsx'* -> integration with GROUP 4's BOM, using randomised duration times.  
 *'LETSA Hueristic model.ipynb'* -> check against LETSA heuristic to determine accuracy and optimality of Julia MILP
 
 
